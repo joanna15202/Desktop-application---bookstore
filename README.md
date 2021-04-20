@@ -1,2 +1,2 @@
 # Desktop-application---bookstore
-Desktop bookstore application that stores Title, Author Year, and ISBN
+This is a desktop bookstore application that stores Title, Author Year, and ISBN
